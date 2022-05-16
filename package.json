@@ -1,0 +1,30 @@
+{
+  "name": "pp-cli",
+  "version": "1.0.0",
+  "description": "a cli test",
+  "main": "index.js",
+  "bin": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhupp034/pp-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhupp034/pp-cli/issues"
+  },
+  "homepage": "https://github.com/zhupp034/pp-cli#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.0.0",
+    "commander": "^9.2.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.4",
+    "ora": "^5.0.0"
+  }
+}
