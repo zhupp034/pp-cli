@@ -34,7 +34,7 @@ program.on("--help", function () {
     console.log();
     console.log(
       `Run ${chalk.cyan(
-        "pp-cli <command> --help"
+        "pp <command> --help"
       )} for detailed usage of given command.`
     );
     console.log();

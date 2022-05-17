@@ -5,4 +5,4 @@
 ## 使用
 
 - 安装 `npm i @cnpp/pp-cli -g`
-- 使用 `pp-cli create my-app`
+- 使用 `pp create my-app`
